@@ -13,7 +13,7 @@ public class BlogapplicationApplication {
 		System.out.println("Run Blog.....");
 		
 	}
-
+// this is commet
          
 	@Bean
 	public ModelMapper modelMapper()
